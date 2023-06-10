@@ -307,6 +307,7 @@ PRODUCT_PACKAGES += \
     libacdbloader \
     libacdbrtac \
     libadiertac \
+    libadm \
     libaudcal \
     libaudio_log_utils \
     libaudioparsers \
